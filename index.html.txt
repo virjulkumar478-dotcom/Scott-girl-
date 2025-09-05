@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virjul Kumar - Photo & WhatsApp</title>
+</head>
+<body style="text-align:center; font-family:Arial; background-color:#f2f2f2;">
+
+<h1>Meri Special Photo</h1>
+
+<div style="margin:30px;">
+  <!-- Badi Photo -->
+  <img src="https://www.dropbox.com/scl/fi/qrgsxlvp6m3s58gkznsc2/Screenshot_2025-09-05-22-53-51-42_40deb401b9ffe8e1df2f1cc5ba480b12.jpg?dl=1" 
+       alt="Special Photo" width="400px" style="border-radius:15px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);"><br><br>
+
+  <!-- WhatsApp Logo -->
+  <a href="https://wa.me/916206085383" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/p8opjeoy7450fa23gq0u6/Screenshot_2025-09-05-22-54-00-92_40deb401b9ffe8e1df2f1cc5ba480b12.jpg?dl=1" 
+         alt="WhatsApp" width="60px" style="cursor:pointer;">
+  </a>
+</div>
+
+</body>
+</html>
